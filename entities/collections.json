@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "Best of Maui Tour",
+        "rating": 4.0,
+        "reviews": 1247,
+        "discount": 0.5,
+        "price": 130,
+        "time": "Morning",
+        "img": "imgs/bridge.png"
+    },
+    {
+        "id": 2,
+        "title": "Snorkeling Adventrue at Turtle Canyon",
+        "rating": 4.5,
+        "reviews": 3247,
+        "discount": 0.43,
+        "price": 345,
+        "time": "Morning",
+        "img": "imgs/Chrysanthemum.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Aquaventrue Waterpark",
+        "rating": 4.3,
+        "reviews": 3247,
+        "discount": 0.43,
+        "price": 120,
+        "time": "Morning",
+        "img": "imgs/ferry.png"
+    },
+    {
+        "id": 4,
+        "title": "Private Adventrues Sightseeing Rafting",
+        "rating": 4.3,
+        "reviews": 3247,
+        "discount": 0.43,
+        "price": 880,
+        "time": "Morning",
+        "img": "imgs/jellyfish.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Legoland & Water Park Combo",
+        "rating": 4.5,
+        "reviews": 1262,
+        "discount": 0.7,
+        "price": 26,
+        "time": "Afternoon",
+        "img": "imgs/jump.png"
+    },
+    {
+        "id": 6,
+        "title": "Mandelay Bay Beach Fireworks and Food Party",
+        "rating": 4.5,
+        "reviews": 1262,
+        "discount": 0.7,
+        "price": 15,
+        "time": "Afternoon",
+        "img": "imgs/Koala.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Snorkeling Adventrue at Turtle Canyon",
+        "rating": 4.5,
+        "reviews": 3162,
+        "discount": null,
+        "price": 450,
+        "time": "Afternoon",
+        "img": "imgs/lake.png"
+    },
+    {
+        "id": 8,
+        "title": "Legoland & Water Park Combo",
+        "rating": 4.5,
+        "reviews": 1262,
+        "discount": 0.7,
+        "price": 267,
+        "time": "Evening",
+        "img": "imgs/Lighthouse.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Mandelay Bay Beach Fireworks and Food Party",
+        "rating": 4.5,
+        "reviews": 1262,
+        "discount": 0.7,
+        "price": 153,
+        "time": "Evening",
+        "img": "imgs/mobike.png"
+    },
+    {
+        "id": 10,
+        "title": "Snorkeling Adventrue at Turtle Canyon",
+        "rating": 4.5,
+        "reviews": 3162,
+        "discount": null,
+        "price": 345,
+        "time": "Evening",
+        "img": "imgs/Tulips.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Legoland & Water Park Combo",
+        "rating": 4.5,
+        "reviews": 1262,
+        "discount": 0.7,
+        "price": 267,
+        "time": "Evening",
+        "img": "imgs/stream.PNG"
+    },
+    {
+        "id": 12,
+        "title": "Mandelay Bay Beach Fireworks and Food Party",
+        "rating": 4.5,
+        "reviews": 1262,
+        "discount": 0.7,
+        "price": 533,
+        "time": "Night",
+        "img": "imgs/beach.PNG"
+    },
+    {
+        "id": 13,
+        "title": "Snorkeling Adventrue at Turtle Canyon",
+        "rating": 4.5,
+        "reviews": 3162,
+        "discount": null,
+        "price": 325,
+        "time": "Night",
+        "img": "imgs/seafood.PNG"
+    },
+    {
+        "id": 14,
+        "title": "Legoland & Water Park Combo",
+        "rating": 4.5,
+        "reviews": 1262,
+        "discount": 0.7,
+        "price": 767,
+        "time": "Night",
+        "img": "imgs/palace.PNG"
+    },
+    {
+        "id": 15,
+        "title": "Mandelay Bay Beach Fireworks and Food Party",
+        "rating": 4.5,
+        "reviews": 1262,
+        "discount": 0.7,
+        "price": 553,
+        "time": "Night",
+        "img": "imgs/mountain.PNG"
+    },
+    {
+        "id": 16,
+        "title": "Snorkeling Adventrue at Turtle Canyon",
+        "rating": 4.5,
+        "reviews": 3162,
+        "discount": null,
+        "price": 345,
+        "time": "Night",
+        "img": "imgs/logo.png"
+    }
+]
