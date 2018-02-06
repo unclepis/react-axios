@@ -9,5 +9,6 @@
 
 ## 使用说明
 
-npm run server 拉起mock的server准备拦截前台发送的http请求
-npm run start 跑起前台代码，在3000端口会拉起create-react-app的脚手架，在组件中发送请求获取mock的假数据进行组件开发
+- npm run server 拉起mock的server准备拦截前台发送的http请求
+
+- npm run start 跑起前台代码，在3000端口会拉起create-react-app的脚手架，在组件中发送请求获取mock的假数据进行组件开发
