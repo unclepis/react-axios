@@ -5,15 +5,16 @@
 - 写个demo试一下用restify的mock-server和react前台代码进行mock数据调试，这样开发就不依赖后台接口
 
 - 组件结构比较简单：
-  -app
-    - header
-    - sider
-      -priceFilter 过滤价格 
-      -timeRangeFilter 过滤时间
-      -reset 重置过滤条件
-    -content
-      -mainSection显示旅游景点信息
-    -footer
+
+    -app
+        - header
+        - sider
+          -priceFilter 过滤价格 
+          -timeRangeFilter 过滤时间
+          -reset 重置过滤条件
+        -content
+          -mainSection显示旅游景点信息
+        -footer
 - 布局用的antd的layout布局+flex布局
 - 没有用 redux，因为组件层级比较简单，就用状态提升将state都存在App组件中，然后通过props把获取state变化的函数传入子组件，抓取公共数据变化
 - 使用restify模拟的假数据，在entities目录下有和后台约定好的json数据格式；在server.js中根据客户端请求的url返回不同的json数据
